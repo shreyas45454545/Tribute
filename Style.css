@@ -1,0 +1,19 @@
+body {background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/10/high-resolution-black-background-09.jpg");
+  opacity: 0.8;
+
+  background-size: contain;
+background-position: center;
+    text-align: justify;
+    text-decoration-color: azure;
+    color:oldlace;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: initial;
+    text-shadow: rgb(237, 138, 39) 5px, 5px;
+  }
+  h1{
+    text-align: center;
+    color: #FFFFFF;
+    
+  }
